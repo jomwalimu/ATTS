@@ -1,0 +1,26 @@
+{
+  "round": 0,
+  "title": "회차 제목을 입력하세요",
+  "date": "2026-00-00",
+  "summary": [
+    "이번 시간 핵심 포인트 1",
+    "이번 시간 핵심 포인트 2",
+    "이번 시간 핵심 포인트 3"
+  ],
+  "practice": [
+    {
+      "title": "실습 이름",
+      "description": "이 실습에서 무엇을 해보는지 한두 문장으로 설명",
+      "type": "prompt",
+      "content": "여기에 프롬프트 예시나 코드를 붙여넣으세요"
+    }
+  ],
+  "references": [
+    {
+      "label": "참고 자료 이름",
+      "url": "https://example.com",
+      "type": "link"
+    }
+  ],
+  "nextPreview": "다음 회차에서 다룰 내용을 한두 문장으로 예고"
+}

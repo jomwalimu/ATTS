@@ -1,0 +1,8 @@
+{
+  "siteTitle": "AI 활용 교사 연수",
+  "siteSubtitle": "매주 함께 배우는 AI, 한 회차씩 차곡차곡",
+  "rounds": [
+    { "id": "round01", "folder": "rounds/round01" },
+    { "id": "round02", "folder": "rounds/round02" }
+  ]
+}
